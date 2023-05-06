@@ -7,7 +7,7 @@ Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://alphaotuken.github.io/transitcorp/#"><strong>➥ Live Demo</strong></a>
   
-https://img.shields.io/badge/alphaotuken?style=for-the-badge&logo=github&logoColor=white
+[!Github](https://img.shields.io/badge/alphaotuken?style=for-the-badge&logo=github&logoColor=white)
 
   <br />
   <br />
