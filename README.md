@@ -17,7 +17,7 @@ Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 ### Demo Screeshots
 
-![TransitCorp Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![TransitCorp Desktop Demo](https://user-images.githubusercontent.com/100890340/236615976-f3fd96f5-701a-4816-8304-46e82afe36d7.png)
 
 ### Prerequisites
 
