@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/transportio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/transportio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/transportio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/55n9hx6QmVA?style=social)](https://youtu.be/55n9hx6QmVA)
+  <h2 align="center">TransitCorp - Transportation website</h2>
+
+TransitCorp is a fully responsive transportation website,
+Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="https://alphaotuken.github.io/transitcorp/#"><strong>➥ Live Demo</strong></a>
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/transitcorp)
+  ![GitHub stars](https://img.shields.io/github/stars/alphaotuken/transitcorp?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/alphaotuken/transitcorp?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/taloisik?style=social)](https://twitter.com/intent/follow?screen_name=taloisik)
 
   <br />
   <br />
-
-  <h2 align="center">Transportio - Transportation website</h2>
-
-  Transportio is a fully responsive transportation website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/transportio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Transportio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![TransitCorp Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,23 +31,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Transportio** locally, run this command on your git bash:
+To run **TransitCorp** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/transportio.git
+sudo git clone https://github.com/alphaotuken/transitcorp.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/transportio.git
+git clone https://github.com/alphaotuken/transitcorp.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
 
 ### License
 
