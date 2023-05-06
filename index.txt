@@ -1,10 +1,10 @@
-Transportio - To every direction
+TransitCorp - Your Way To Success
 
 
 
 #---------- HEADER ----------#
 
-Transportio
+TransitCorp
 
 aria-label = Clsoe menu
 <ion-icon name="close-outline"></ion-icon>
@@ -249,7 +249,7 @@ Track Your Shipment
 Privacy Policy
 Terms & Condition
 
-&copy; 2022 Transportio. All Rights Reserved by codewithsadee
+&copy; 2023 TransitCorp. All Rights Reserved by alphaotuken
 
 
 
