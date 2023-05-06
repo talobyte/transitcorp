@@ -1,3 +1,7 @@
+```
+By: @alphaotuken
+```
+
 # Essential Stuff
 
 ## Html import links
