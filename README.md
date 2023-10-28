@@ -5,7 +5,7 @@
 TransitCorp is a fully responsive transportation website,
 Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://alphaotuken.github.io/transitcorp/#"><strong>➥ Live Demo</strong></a>
+  <a href="https://talobyte.github.io/transitcorp/#"><strong>➥ Live Demo</strong></a>
  
 
   <br />
@@ -32,13 +32,13 @@ To run **TransitCorp** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/alphaotuken/transitcorp.git
+sudo git clone https://github.com/talobyte/transitcorp.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alphaotuken/transitcorp.git
+git clone https://github.com/talobyte/transitcorp.git
 ```
 
 ### Contact
